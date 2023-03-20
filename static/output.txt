@@ -1,0 +1,2 @@
+This is a file.
+Created by a Stream.
